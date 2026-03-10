@@ -1,0 +1,6 @@
+python-telegram-bot>=21.0
+sympy>=1.12
+python-dotenv>=1.0.0
+easyocr>=1.7.0
+pillow>=10.0.0
+certifi>=2024.0.0
